@@ -1,0 +1,23 @@
+.Room {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: cadetblue;
+}
+.Table {
+  background-color: green;
+  display: flex;
+  flex-direction: row;
+}
+.RoomControls {
+  display: block;
+  margin: 20px;
+}
+.Deck {
+  display: flex;
+  flex-direction: row;
+  background-color: coral;
+  justify-content: space-around;
+}
+.VotingInstructions {
+  display: block;
+}

@@ -1,0 +1,18 @@
+.Card {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border: 1px solid black;
+  border-radius: 5%;
+  flex-direction: row;
+  font-style: italic;
+  background-color: white;
+  height: 200px;
+  width: 150px;
+  margin: auto;
+}
+.InnerCard {
+  height: 100%;
+  width: 100%;
+  border-radius: 5%;
+}
